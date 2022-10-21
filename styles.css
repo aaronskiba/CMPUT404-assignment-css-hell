@@ -1,7 +1,10 @@
 body {
-    margin-left: 20%;
-    margin-right: 20%;
-    text-align: justify
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: justify;
+    background: #fff3cf;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 2ex;
     }
 div.chapter {
     page-break-before: always;
@@ -9,8 +12,8 @@ div.chapter {
     }
 p {
     text-indent: 1em;
-    margin-top: 0.25em;
-    margin-bottom: 0.25em
+    margin-top: 0.7em;
+    margin-bottom: 0.7em
     }
 .c {
     text-align: center;
@@ -25,7 +28,7 @@ p {
     text-align: center;
     text-indent: 0%;
     font-weight: bold;
-    font-family: sans-serif, serif;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
     font-size: 70%
     }
 .errata {
