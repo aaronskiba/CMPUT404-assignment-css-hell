@@ -21,6 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+HTML and CSS content is copyrighted by Aaron Skiba 2022 under the CC-BY-SA license. However, the Gutenberg HTML and CSS contributions were largely modifications of existing HTML. Thus, under the CC-BY-SA license, the original Frankenstein, Dracula, and Complete Works of Shakespeare HTML documents are not my property.
+
+
 Gutenberg Modifications
 =======================
 
