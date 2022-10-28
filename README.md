@@ -21,4 +21,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Gutenberg Modifications
+=======================
 
+-For this part of the assignment, I largely followed the recommendations to achieve an old look. I chose a yellowish-white colour in an attempt to achieve a paper-like background. I also chose a gothic-type font, specifically Century Gothic. I think the aesthetic worked nicely for the horror novels I chose (Frankenstein and Dracula). To my eye, the font suits the Shakespeare collection nicely as well.
